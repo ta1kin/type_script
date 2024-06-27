@@ -1,0 +1,1 @@
+npm install --save-dev ts-node-dev express dotenv pg

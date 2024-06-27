@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Allow: /frontend/dist
+Host: http//:localhost:1111
+
+#Дописать:
+#Sitemap:
+#clean-params:
+#crawl-delay: 3
